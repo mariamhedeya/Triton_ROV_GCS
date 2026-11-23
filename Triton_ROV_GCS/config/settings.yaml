@@ -1,0 +1,17 @@
+
+input:
+  polling_rate: 50
+  deadzone: 0.10
+
+  controllers:
+    expected_count: 2
+    allow_hotplug: true
+
+keyboard:
+  enabled: true
+
+logging:
+  level: INFO
+  file: logs/rov.log
+  max_bytes: 1048576
+  backup_count: 3

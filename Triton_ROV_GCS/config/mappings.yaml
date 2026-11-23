@@ -1,0 +1,16 @@
+
+joystick:
+  axes:
+    horizontal: 0
+    vertical: 1
+
+  buttons: {}
+
+  dpad:
+    enabled: true
+
+keyboard:
+  forward: up
+  backward: down
+  left: left
+  right: right
